@@ -209,7 +209,7 @@ h6 {
 --------------------------------------------------------------*/
 #header {
   /* background: #0d0d0d; */
-  background:rgba(137, 4, 86, 0.968);
+  background:rgba(160, 4, 100, 0.968);
  
   transition: all 0.5s;
   z-index: 997;
@@ -219,13 +219,14 @@ h6 {
 @media (max-width: 992px) {
   #header {
     height: 60px;
+    background: rgba(163, 0, 100, 0.968);
   }
 }
 
 #header.fixed-top {
    /* background: rgba(0, 0, 0, 0.85);  */
    /* background: rgba(31, 0, 9, 0.85);  */
-   background: #46043c;
+   background: #4d0243;
    
   
 }
